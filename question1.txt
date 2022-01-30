@@ -1,0 +1,7 @@
+Step 1 : Go to git hub and login 
+
+step 2 : Go to new repo....
+
+step 3 : Give Name to repo... and click on create repo....
+
+Link :  https://github.com/DattatrayMahadeek/Devops-210940120103.git
